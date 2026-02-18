@@ -1,7 +1,7 @@
 
 # 🎬 Mongoflix - Projekt Warstwy Danych
 
-Witaj w zespole inżynierskim Mongoflix! 
+Witaj w zespole inżynierskim Mongoflix!! 
 Twoim zadaniem jest zaprojektowanie, wdrożenie i przetestowanie struktury bazy danych MongoDB dla nowej platformy streamingowej.
 
 > **Status Projektu:** 🟡 W trakcie realizacji  
