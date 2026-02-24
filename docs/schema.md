@@ -1,6 +1,7 @@
 ### 1. Kolekcja: `Filmy`
 | Pole          | Typ         | Opis                  | Przykład                                                                       |
 |:--------------|:------------|:----------------------|:-------------------------------------------------------------------------------|
+| `id`          | **Int**     | Id filmu.             | `1`                                                                            |
 | `movieTitle`  | **String**  | Nazwa filmu.          | `"Fortnite Movie"`                                                             |
 | `dateRelease` | **Number**  | Data wydania filmu.   | `27.05.2031`                                                                   |
 | `genres`      | **String**  | Gatunek filmu.        | `Akcja, Komedia`                                                               |

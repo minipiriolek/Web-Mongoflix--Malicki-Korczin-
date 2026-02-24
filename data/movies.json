@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Titanic",
+    "year": 1997,
+    "genres": ["Dramat", "Romans"],
+    "type": "Premium",
+    "views": 150000,
+    "director": "James Cameron",
+    "actors": ["Leonardo DiCaprio", "Kate Winslet"],
+    "reviews": [
+      {"user":  "Lee Bron Jamie", "rating": 7, "comment": "Moovie Goot Moovie Goot"},
+      {"user":  "Bartixonek9", "rating": 5, "comment": "Spoko"},
+      {"user":  "Anna Wanna", "rating": 10, "comment": "Wspaniały, wzruszający film! POLECAM!!!"},
+      {"user":  "Waldek35", "rating": 0, "comment": "Straszny syf"},
+      { "user":  "Sean Combs", "rating": 1, "comment": "Bad movie, come visit my parties ASAP!!!!"},
+      {"user":  "Roman P.", "rating": 8, "comment": "Very dobry movie."}
+    ]
+  }
+]
