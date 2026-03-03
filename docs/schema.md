@@ -1,10 +1,11 @@
 ### 1. Kolekcja: `filmy`
 
-| Pole            | Typ    | Opis                                      | Przykład |
-| :-------------- | :----- | :---------------------------------------- | :------- |
-| `tytul`         | String | Tytuł filmu                               | "Uciekaj!" |
-| `data_premiery` | Date   | Data wejścia filmu do kin                 | 2017-02-24 |
-| `gatunki`       | Array  | Lista gatunków filmu (może być wiele)     | ["Horror", "Komedia"] |
+| Pole            | Typ    | Opis                                  | Przykład              |
+|:----------------|:-------|:--------------------------------------|:----------------------|
+| `_id`           | Int    | Tytuł filmu                           | 1                     |
+| `tytul`         | String | Tytuł filmu                           | "Uciekaj!"            |
+| `data_premiery` | Int    | Rok wejścia filmu do kin              | 2017                  |
+| `gatunki`       | Array  | Lista gatunków filmu (może być wiele) | ["Horror", "Komedia"] |
 
 
 
