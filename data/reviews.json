@@ -1,0 +1,62 @@
+[
+  {
+    "film_id": 1,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e001" },
+    "ocena": 9,
+    "recenzja": "Świetna gra aktorska i klimat."
+  },
+  {
+    "film_id": 2,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e002" },
+    "ocena": 8,
+    "recenzja": "Bardzo wciągający scenariusz."
+  },
+  {
+    "film_id": 3,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e003" },
+    "ocena": 10,
+    "recenzja": "Arcydzieło kina akcji."
+  },
+  {
+    "film_id": 4,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e004" },
+    "ocena": 9,
+    "recenzja": "Zaskakujący i mocny przekaz."
+  },
+  {
+    "film_id": 5,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e005" },
+    "ocena": 8,
+    "recenzja": "Klasyka science fiction."
+  },
+  {
+    "film_id": 6,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e006" },
+    "ocena": 10,
+    "recenzja": "Ponadczasowy dramat kryminalny."
+  },
+  {
+    "film_id": 7,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e007" },
+    "ocena": 7,
+    "recenzja": "Dużo efektów specjalnych, dobra rozrywka."
+  },
+  {
+    "film_id": 8,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e008" },
+    "ocena": 9,
+    "recenzja": "Mocna i poruszająca historia."
+  },
+  {
+    "film_id": 9,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e009" },
+    "ocena": 8,
+    "recenzja": "Świetny film familijny."
+  },
+  {
+    "film_id": 10,
+    "widz_id": { "$oid": "75a2b3c4d5e6f7a8b9c0e010" },
+    "ocena": 9,
+    "recenzja": "Poruszający i ambitny film science fiction."
+  }
+]

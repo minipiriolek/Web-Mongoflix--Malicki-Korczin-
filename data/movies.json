@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "tytul": "Uciekaj!",
+    "data_premiery": 2017,
+    "gatunki": ["Horror", "Thriller"]
+  },
+  {
+    "_id": 2,
+    "tytul": "Incepcja",
+    "data_premiery": 2010,
+    "gatunki": ["Sci-Fi", "Thriller"]
+  },
+  {
+    "_id": 3,
+    "tytul": "Mroczny Rycerz",
+    "data_premiery": 2008,
+    "gatunki": ["Akcja", "Dramat"]
+  },
+  {
+    "_id": 4,
+    "tytul": "Parasite",
+    "data_premiery": 2019,
+    "gatunki": ["Dramat", "Thriller"]
+  },
+  {
+    "_id": 5,
+    "tytul": "Matrix",
+    "data_premiery": 1999,
+    "gatunki": ["Sci-Fi", "Akcja"]
+  },
+  {
+    "_id": 6,
+    "tytul": "Ojciec chrzestny",
+    "data_premiery": 1972,
+    "gatunki": ["Dramat", "Kryminalny"]
+  },
+  {
+    "_id": 7,
+    "tytul": "Avengers: Koniec gry",
+    "data_premiery": 2019,
+    "gatunki": ["Akcja", "Sci-Fi"]
+  },
+  {
+    "_id": 8,
+    "tytul": "Joker",
+    "data_premiery": 2019,
+    "gatunki": ["Dramat", "Kryminalny"]
+  },
+  {
+    "_id": 9,
+    "tytul": "Toy Story",
+    "data_premiery": 1995,
+    "gatunki": ["Animacja", "Familijny"]
+  },
+  {
+    "_id": 10,
+    "tytul": "Interstellar",
+    "data_premiery": 2014,
+    "gatunki": ["Sci-Fi", "Dramat"]
+  }
+]
